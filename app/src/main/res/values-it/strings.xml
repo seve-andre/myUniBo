@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myUniBo</string>
+    <string name="nav_item_courses">Corsi</string>
+    <string name="nav_item_exams">Esami</string>
+    <string name="nav_item_profile">Profilo</string>
+    <string name="no_lessons_message">Non ci sono lezioni oggi</string>
+    <string name="my_courses">I miei corsi</string>
+    <string name="details">Dettagli</string>
+    <string name="add_course">Aggiungi corso</string>
+    <string name="year">anno</string>
+    <string name="language">Lingua</string>
+    <string name="book_exam">Prenota un esame</string>
+    <string name="already_booked_exams">esami prenotati</string>
+    <string name="stats">Statistiche</string>
+    <string name="id_student">ID studente</string>
+    <string name="preferences">Preferenze</string>
+    <string name="theme">Tema</string>
+    <string name="notifications">Notifiche</string>
+    <string name="dark_theme">Scuro</string>
+    <string name="light_theme">Chiaro</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+    <string name="grades">libretto</string>
+    <string name="tuition">tasse</string>
+    <string name="badge">tesserino</string>
+    <string name="today">Oggi</string>
+    <string name="login">Accedi</string>
+    <string name="register">Registrati</string>
+    <string name="email_or_password_incorrect">L\'email o la password inserita è incorretta</string>
+    <string name="forgot_password">Hai dimenticato la password?</string>
+    <string name="out_of">di</string>
+    <string name="exams_taken">esami sostenuti</string>
+    <string name="gpa">media esami</string>
+    <string name="starting_grade">base di laurea</string>
+    <string name="lessons">Lezioni</string>
+    <string name="choose_exams">Scegli esami</string>
+    <string name="search_course">Cerca corso</string>
+    <string name="university_of_bologna">UNIVERSITÀ DI BOLOGNA</string>
+    <string name="nuovo">Nuovo</string>
+</resources>

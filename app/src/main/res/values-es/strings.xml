@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myUniBo</string>
+    <string name="nav_item_courses">Cursos</string>
+    <string name="nav_item_exams">Examanes</string>
+    <string name="nav_item_profile">Perfil</string>
+    <string name="no_lessons_message">No hay clases hoy</string>
+    <string name="my_courses">Mi cursos</string>
+    <string name="details">Detalles</string>
+    <string name="add_course">Añadir curso</string>
+    <string name="year">año</string>
+    <string name="language">Idioma</string>
+    <string name="book_exam">Reservar un examen</string>
+    <string name="already_booked_exams">exámenes reservados</string>
+    <string name="stats">Estadísticas</string>
+    <string name="id_student">ID estudiante</string>
+    <string name="preferences">Preferencias</string>
+    <string name="theme">Tema</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="dark_theme">Oscuro</string>
+    <string name="light_theme">Claro</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="grades">votos</string>
+    <string name="tuition">colegiatura</string>
+    <string name="badge">tarjeta</string>
+    <string name="today">Hoy</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="email_or_password_incorrect">el correo electrónico o la contraseña son incorrectos</string>
+    <string name="forgot_password">¿Ha olvidado la constraseña?</string>
+    <string name="out_of">de</string>
+    <string name="exams_taken">exámenes tomados</string>
+    <string name="gpa">exámenes promedio</string>
+    <string name="starting_grade">grado inicial</string>
+    <string name="lessons">Clases</string>
+    <string name="choose_exams">Elegir exámenes</string>
+    <string name="search_course">Buscar curso</string>
+    <string name="university_of_bologna">UNIVERSIDAD DE BOLONIA</string>
+    <string name="nuovo">Nuevo</string>
+</resources>

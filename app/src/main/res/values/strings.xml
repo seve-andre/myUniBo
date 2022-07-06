@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myUniBo</string>
+    <string name="nav_item_courses">Courses</string>
+    <string name="nav_item_exams">Exams</string>
+    <string name="nav_item_profile">Profile</string>
+    <string name="no_lessons_message">No lessons today</string>
+    <string name="my_courses">My courses</string>
+    <string name="details">Details</string>
+    <string name="add_course">Add course</string>
+    <string name="year">year</string>
+    <string name="language">Language</string>
+    <string name="book_exam">Book an exam</string>
+    <string name="already_booked_exams">upcoming exams</string>
+    <string name="stats">Stats</string>
+    <string name="id_student">Student ID</string>
+    <string name="preferences">Preferences</string>
+    <string name="theme">Theme</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_theme">Dark</string>
+    <string name="light_theme">Light</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="grades">grades</string>
+    <string name="tuition">tuition</string>
+    <string name="badge">badge</string>
+    <string name="today">Today</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_or_password_incorrect">The email or password is incorrect</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="out_of">out of</string>
+    <string name="exams_taken">exams taken</string>
+    <string name="gpa">gpa</string>
+    <string name="starting_grade">starting grade</string>
+    <string name="lessons">Lessons</string>
+    <string name="choose_exams">Choose exams</string>
+    <string name="search_course">Search course</string>
+    <string name="university_of_bologna">UNIVERSITY OF BOLOGNA</string>
+    <string name="nuovo">New</string>
+</resources>

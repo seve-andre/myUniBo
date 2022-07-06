@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="Theme.MyUniBo" parent="android:Theme.Material.Light.NoActionBar">
+    <!-- Deprecated - Theme.kt file should be used instead in Jetpack Compose -->
+        <item name="android:statusBarColor">@color/unibo_color</item>
+        <item name="android:windowBackground">@color/unibo_color</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/unibo_color</item>
+    </style>
+</resources>

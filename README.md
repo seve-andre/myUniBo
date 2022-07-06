@@ -24,3 +24,4 @@ There's also a presentation of the Navigation Component [here](https://github.co
 - add [Virtuale](https://virtuale.unibo.it/) courses (each course contains slides, past exams and professors announcements)
 - add tuition screen, otherwise you would go to [Studenti Online](https://studenti.unibo.it/sol/welcome.htm) to see it
 - add Dark Theme support
+- add virtual badge with future possibility of combining it with NFC to unlock doors on campus

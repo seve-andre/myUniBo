@@ -3,7 +3,7 @@
 
 myUniBO is the main app for students enrolled to the Alma Mater Studiorum University of Bologna, Italy. It lets you book exams, see lessons of the day, grades and stats about your career. I revisited the UI, adding new screens and functionalities.
 
-You can find a presentation of the project [here](https://github.com/seve-andre/myUniBO/blob/main/presentation/myUniBO%20presentation.pdf).
+You can find a presentation of the project [here](https://github.com/seve-andre/myUniBO/blob/main/presentation/myUniBO%20presentation.pdf) with screenshots.
 
 If you want to download the presentation, [click here](https://github.com/seve-andre/myUniBO/raw/main/presentation/myUniBO%20presentation.pdf).
 

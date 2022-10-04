@@ -14,9 +14,9 @@ If you want to download the presentation, [click here](https://github.com/seve-a
 There's also a presentation of the Navigation Component [here](https://github.com/seve-andre/myUniBO/blob/main/presentation/Navigation%20Component%20presentation.pdf).
 
 ## Screenshots
-![Screenshots 1](presentation/readme/screenshot-1.png)
-![Screenshots 2](presentation/readme/screenshot-2.png)
-![Screenshots 3](presentation/readme/screenshot-3.png)
+![Screenshots 1](presentation/readme/screenshot-1.jpg)
+![Screenshots 2](presentation/readme/screenshot-2.jpg)
+![Screenshots 3](presentation/readme/screenshot-3.jpg)
 
 ## What did I use?
 - [Kotlin](https://kotlinlang.org/) as main language

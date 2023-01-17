@@ -1,17 +1,17 @@
-# myUniBO
+# myUniBo
 <p align="center">
     <img src="presentation/readme/grad_hat.svg" alt="myUniBo logo" height="200">
 </p>
 
-[myUniBO](https://play.google.com/store/apps/details?id=com.myunibo&hl=it&gl=it) app revisited using [Jetpack Compose](https://developer.android.com/jetpack/compose) by Android.
+[myUniBo](https://play.google.com/store/apps/details?id=com.myunibo&hl=it&gl=it) app revisited using [Jetpack Compose](https://developer.android.com/jetpack/compose) by Android.
 
-myUniBO is the main app for students enrolled to the Alma Mater Studiorum University of Bologna, Italy. It lets you book exams, see lessons of the day, grades and stats about your career. I revisited the UI, adding new screens and functionalities.
+myUniBo is the main app for students enrolled to the Alma Mater Studiorum University of Bologna, Italy. It lets you book exams, see lessons of the day, grades and stats about your career. I revisited the UI, adding new screens and functionalities.
 
-You can find a presentation of the project [here](https://github.com/seve-andre/myUniBO/blob/main/presentation/myUniBO%20presentation.pdf) with screenshots.
+You can find a presentation of the project [here](https://github.com/seve-andre/myUniBo/blob/main/presentation/myUniBO%20presentation.pdf) with screenshots.
 
-If you want to download the presentation, [click here](https://github.com/seve-andre/myUniBO/raw/main/presentation/myUniBO%20presentation.pdf).
+If you want to download the presentation, [click here](https://github.com/seve-andre/myUniBo/raw/main/presentation/myUniBO%20presentation.pdf).
 
-There's also a presentation of the Navigation Component [here](https://github.com/seve-andre/myUniBO/blob/main/presentation/Navigation%20Component%20presentation.pdf).
+There's also a presentation of the Navigation Component [here](https://github.com/seve-andre/myUniBo/blob/main/presentation/Navigation%20Component%20presentation.pdf).
 
 ## Screenshots
 ![Screenshots 1](presentation/readme/screenshot-1.jpg)

@@ -3,7 +3,7 @@
 </div>
 
 # myUniBo
-[myUniBo](https://play.google.com/store/apps/details?id=com.myunibo&hl=it&gl=it) app revisited using [Jetpack Compose](https://developer.android.com/jetpack/compose) by Android.
+[myUniBo](https://play.google.com/store/apps/details?id=com.myunibo) app revisited using [Jetpack Compose] by Android.
 myUniBo is the main app for students enrolled to the Alma Mater Studiorum University of Bologna, Italy. It lets you book exams, see lessons of the day, grades and stats about your career
 
 ![Screenshots 1](presentation/readme/screenshot-1.jpg)
@@ -19,7 +19,7 @@ myUniBo is the main app for students enrolled to the Alma Mater Studiorum Univer
 
 ### What did I use?
 - [Kotlin](https://kotlinlang.org/) as main language
-- [Jetpack Compose](https://developer.android.com/jetpack/compose) as modern toolkit for native UI
+- [Jetpack Compose] as modern toolkit for native UI
 - [Material components for Jetpack Compose](https://developer.android.com/reference/kotlin/androidx/compose/material/package-summary#top-level-functions) to build UI faster
 - [Room](https://developer.android.com/training/data-storage/room) as local DB
 - [Datastore](https://developer.android.com/topic/libraries/architecture/datastore?gclid=CjwKCAjwkYGVBhArEiwA4sZLuMMCRUnWZzzy-AwDePYTUTn3gO6-rrT8jGo7D-H2vztegIJ-zEsb8hoCtI8QAvD_BwE&gclsrc=aw.ds) to cache user info, instead of SharedPreferences since it's deprecated
@@ -27,3 +27,5 @@ myUniBo is the main app for students enrolled to the Alma Mater Studiorum Univer
 - [Kalendar](https://github.com/hi-manshu/Kalendar) to use Calendar Component for Homepage
 - [Accompanist System Controller](https://google.github.io/accompanist/systemuicontroller/) to change status and navigation bar colors
 
+<!-- Links -->
+[Jetpack Compose]: https://developer.android.com/jetpack/compose

@@ -1,13 +1,10 @@
 <div align="center">
     <img src="presentation/readme/grad_hat.svg" alt="myUniBo logo" height="200" />
-    <h1>myUniBo</h1>
-    <p>
-        <a href="https://play.google.com/store/apps/details?id=com.myunibo&hl=it&gl=it">myUniBo</a> app revisited using <a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a> by Android.
-    </p>
-    <p>
-    myUniBo is the main app for students enrolled to the Alma Mater Studiorum University of Bologna, Italy. It lets you book exams, see lessons of the day, grades and stats about your career
-    </p>
 </div>
+
+# myUniBo
+[myUniBo](https://play.google.com/store/apps/details?id=com.myunibo&hl=it&gl=it) app revisited using [Jetpack Compose](https://developer.android.com/jetpack/compose) by Android.
+myUniBo is the main app for students enrolled to the Alma Mater Studiorum University of Bologna, Italy. It lets you book exams, see lessons of the day, grades and stats about your career
 
 ![Screenshots 1](presentation/readme/screenshot-1.jpg)
 ![Screenshots 2](presentation/readme/screenshot-2.jpg)

@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="presentation/readme/grad_hat.svg" alt="myUniBo logo" height="200" />
+    <img src="presentation/readme/grad_hat.svg" alt="myUniBo revisited logo" title="myUniBo revisited logo" height="200" />
 </div>
 
 # myUniBo
